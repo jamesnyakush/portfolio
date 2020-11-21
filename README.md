@@ -32,6 +32,11 @@ Here is My tech stack:
 
 
 ## EHospital
+| Onboard One| Onboard Two | Login |
+| ------ | ----- | ------ |
+| ![Splashscreen](/art/ehos/0.png) | ![Login](/art/ehos/2.png) | ![Register](/art/ehos/3.png) | 
+| Register | Dashboard | Drawer |
+| ![Splashscreen](/art/ehos/4.png) | ![Login](/art/ehos/5.png) | ![Register](/art/ehos/6.png) | 
 
 
 
